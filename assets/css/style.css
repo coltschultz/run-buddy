@@ -251,6 +251,7 @@ footer a {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    margin-right: 30px;
 }
 
 .contact-info div {
@@ -261,3 +262,22 @@ footer a {
     margin: 30px 0 0 60px
     color: white;
 }
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    color: white;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* REACH OUT STYLES END */
